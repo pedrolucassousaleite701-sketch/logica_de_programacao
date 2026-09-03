@@ -15,6 +15,7 @@ package com.mycompany.variaveis;
  */
 public class Variaveis {
     // a classe manin é quem executa os codigos
+    
     public static void main(String[] args) {
   /* código de saida
    - são utilizados para imprimir/mostrar
@@ -27,14 +28,14 @@ public class Variaveis {
   System.out.println(",eu amo java");
   
   //CRIAÇÃO DE VARIÁVEIS
-  int idade = 24;//valor inteiro
-  double altura = 1.63;//valor decimal grande 
+  int idade = 17;//valor inteiro
+  double altura = 1.80;//valor decimal grande 
   float peso ; // valor decimal pequeno
-  String nome = "jhessik keally";//textos
-  boolean casada = false; //valor lógico
+  String nome = "pedro lucas";//textos
+  boolean casado = false; //valor lógico
   // true - verdadeiro , false - falso
-  System.out.println("ola"+nome);
-  System.out.println("voce tem"+idade+" anos de idade");
+  System.out.println("ola "+nome);
+  System.out.println("voce tem "+idade+" anos de idade");
   
    }// fim da manin 
 }
