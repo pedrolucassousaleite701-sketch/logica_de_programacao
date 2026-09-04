@@ -16,7 +16,7 @@ package com.mycompany.variaveis;
 public class Variaveis {
     // a classe manin é quem executa os codigos
     
-    public static void main(String[] args) {
+        public static void main(String[] args) {
   /* código de saida
    - são utilizados para imprimir/mostrar
       dados e mensagens
