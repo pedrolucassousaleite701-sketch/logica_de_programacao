@@ -33,16 +33,7 @@ public class Atividadesuitchcase {
         
         //Swintch case
         
-        switch(numeroProduto){
-            case 1:
-            int valorTotal = 15*quantidade;
-                System.out.println("=====Pedidos=====");
-                System.out.println("Produto: Hamburguer\nQuantidade:");
-                         quantidadede+"\nPreco unitario:R$15,00\n"+"Valor total:"+valorTotal);
-                         
-            break;
-            case 2:
-                
+        
                          
 
              }
@@ -57,8 +48,6 @@ public class Atividadesuitchcase {
         
                    
     }
-}
 
-    private static void swintch(int numeroProduto) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
+
+   
